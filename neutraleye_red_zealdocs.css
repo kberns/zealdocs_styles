@@ -9,7 +9,7 @@ body {
     -webkit-flex-direction: column;
     -webkit-user-select: none;
 }
-div { background-color:#EBE1E1!important;
+div,span,section,table,tr,td,ul,li { background-color:#EBE1E1!important;
 color: #000000!important;
 }
 a {
