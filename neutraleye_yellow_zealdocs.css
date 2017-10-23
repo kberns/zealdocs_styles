@@ -1,0 +1,36 @@
+body {
+    color: #000000!important;
+    background-color:#f8efe9!important;
+    cursor: default;
+    display: -webkit-flex;
+    font-size: 11pt;
+    margin: 10;
+    text-align: center;
+    -webkit-flex-direction: column;
+    -webkit-user-select: none;
+}
+div { background-color:#f8efe9!important;
+color: #000000!important;
+}
+a {
+    color: #174F78!important;
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    font-weight: 100;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+#title {
+    font-size: 4em;
+}
+
+.container {
+    -webkit-flex: none;
+}
+
+.dynamic {
+    -webkit-flex: auto;
+}
